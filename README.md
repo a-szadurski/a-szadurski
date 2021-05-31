@@ -1,4 +1,4 @@
-My name is Arkadiusz Szadursk. I am currently learning to code in Java with bits and pieces of frontend where I need it.
+My name is Arkadiusz Szadurski. I am currently learning to code in Java with bits and pieces of frontend where I need it.
 Currently I slowly poke at my personal projects, as well as I have embarked on a quest to complete coding challenges
 to improve my ability to create algorithms and solutions to problems that can be encountered no matter the framework or
 coding language. 
